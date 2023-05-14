@@ -1,9 +1,13 @@
+
+
+
 <tittle>
 <p align="center"> 
   <a href="https://picasion.com/gl/hbQt/"><img src="https://i.picasion.com/gl/92/hbQt.gif" width="287" height="24" border="0" alt="https://picasion.com/gl/hbQt/" /></a><br /><a href="https://picasion.com/gl/hbQt/"></a>
 </p>
-<p align="center"> 
-<strong> 💟 Have a lovely day 💟 </strong>
+<p align="center">
+  💟 ℌ𝔞𝔳𝔢 𝔞 𝔩𝔬𝔳𝔢𝔩𝔶 𝔡𝔞𝔶 💟</p>
+ 
  </p>
   <p align="center"> 
   <img src="https://im4.ezgif.com/tmp/ezgif-4-419698f744.gif">
@@ -37,5 +41,25 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/FFABDE" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/AdobePhotoshop/FFACC7" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/AdobeLightroom/FFB5A8" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/p5.js/FFC78A" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/FFDE73" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/F9F871" />
   </p>
   
+<p align="center"> 
+<strong>REDES SOCIAIS</strong>
+   <div align="center">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-584784f9d3.gif" align="right"> 
+  </div>
+  <br>
+</p>
+  <p align="center">Sinta-se livre para entrar em contato comigo!</p>
+  <br>
+  <p align="center">
+  <a href="https://www.instagram.com/butterf_lys/" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/Instagram/FFABDE" /></a> &nbsp; <a href="https://www.facebook.com/giovanna.lyss" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/Facebook/DBC2FF" /></a> &nbsp; <a href="https://www.linkedin.com/in/giovanna-lys/" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/91DEFF" /></a> &nbsp; <a href="https://br.pinterest.com/giovanna2966/" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/Pinterest/00F6FF" /></a>
+     </p>
+ <br>
+ <br>
+ <br>
+<p> <h1 align="center">💖 Obrigada e volte logo! 💖</h2>
+</p>
+<div align="center">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-0738dc5df1.gif">
+</div>
   
   </body>
