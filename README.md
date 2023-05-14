@@ -1,18 +1,18 @@
 
 <tittle>
   <p align="center">
-    <a href="https://picasion.com/gl/hbQt/"
-      ><img
-        src="https://i.picasion.com/gl/92/hbQt.gif"
-        width="287"
-        height="24"
-        border="0"
-        alt="https://picasion.com/gl/hbQt/" /></a
-    ><br /><a href="https://picasion.com/gl/hbQt/"></a>
+    <a href="https://picasion.com/gl/hc3s/">
+      <img src="https://i.picasion.com/gl/92/hc3s.gif" 
+           width="287" 
+           height="24" 
+           border="0" />
+    </a>
+    <br />
+    <a href="https://picasion.com/gl/hc3s/"></a>
   </p>
   <h2 align="center">💟 ℌ𝔞𝔳𝔢 𝔞 𝔩𝔬𝔳𝔢𝔩𝔶 𝔡𝔞𝔶 💟</h2>
   <p align="center">
-    <img src="https://im4.ezgif.com/tmp/ezgif-4-419698f744.gif" />
+    <img src="https://github.com/GioLys/GioLys/blob/main/mini%20sakura%20patinando.gif" />
   </p>
 </tittle>
 
@@ -40,6 +40,9 @@
   <p align="left">
     - 🩰 &nbsp; Aprendendo sobre desenvolvimento web e suas diversas
     funcionalidades.
+  </p>
+    <p align="left">
+    - 🎀 &nbsp; Meus hobbies são: patinação artística e league of legends.
   </p>
 
   <br />
@@ -93,12 +96,12 @@
   <br />
 
   <div align="center">
-    <img src="https://im5.ezgif.com/tmp/ezgif-5-d24679d37d.gif" align="right" />
+    <img src="https://github.com/GioLys/GioLys/blob/main/sakura%20transi%C3%A7%C3%A3o.gif" align="right" />
   </div>
 
   <br />
 
-  <p align="center">Sinta-se livre para entrar em contato comigo!</p>
+  <p align="center">𝑺𝒊𝒏𝒕𝒂-𝒔𝒆 𝒍𝒊𝒗𝒓𝒆 𝒑𝒂𝒓𝒂 𝒆𝒏𝒕𝒓𝒂𝒓 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐 𝒄𝒐𝒎𝒊𝒈𝒐!</p>
 
   <br />
 
@@ -143,7 +146,7 @@
   <br />
 
   <div align="center">
-    <img src="https://im5.ezgif.com/tmp/ezgif-5-0738dc5df1.gif" />
+    <img src="https://github.com/GioLys/GioLys/blob/main/kero%20chan.gif" />
   </div>
 </body>
 
