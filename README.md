@@ -35,7 +35,7 @@
     >.
   </p>
   <p align="left">
-    - 🍄 &nbsp; Atualmente trabalho como assistente de departamento financeiro
+    - 🍄 &nbsp; Trabalhei por 1 ano como assistente de departamento financeiro
   </p>
   <p align="left">
     - 🩰 &nbsp; Aprendendo sobre desenvolvimento web e suas diversas
@@ -61,13 +61,13 @@
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/AdobePhotoshop/FFACC7"
+      src="https://cdn.simpleicons.org/css3/FFACC7"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/AdobeLightroom/FFB5A8"
+      src="https://cdn.simpleicons.org/AdobePhotoshop/FFB5A8"         
     />
     &nbsp;
     <img
@@ -86,6 +86,12 @@
       height="32"
       width="32"
       src="https://cdn.simpleicons.org/JavaScript/F9F871"
+    />
+    &nbsp;
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/microsoftsqlserver/9cf8e4"
     />
   </p>
 
