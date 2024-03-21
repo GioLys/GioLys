@@ -73,7 +73,7 @@
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/p5.js/FFC78A"
+      src="https://cdn.simpleicons.org/Python/FFC78A"
     />
     &nbsp;
     <img
