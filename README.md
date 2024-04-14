@@ -11,7 +11,7 @@
   </p>
   <h2 align="center">💟 ℌ𝔞𝔳𝔢 𝔞 𝔩𝔬𝔳𝔢𝔩𝔶 𝔡𝔞𝔶 💟</h2>
   <p align="center">
-    <img src="https://github.com/GioLys/GioLys/blob/main/mini%20sakura%20patinando.gif" />
+    <img src="https://media.tenor.com/bgnl10pR3xgAAAAi/pixel-art-cat.gif" />
   </p>
 </tittle>
 
