@@ -4,9 +4,8 @@
     <a>
       <img src="https://raw.githubusercontent.com/GioLys/GioLys/main/text%20(2).gif" />
     </a>
+    </p>
     <br />
-    
-  </p>
   <p align="center">
     <img src="https://media.tenor.com/bgnl10pR3xgAAAAi/pixel-art-cat.gif" />
   </p>
@@ -43,47 +42,95 @@
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/HTML5/FFABDE"
+      src="https://cdn.simpleicons.org/mysql/FD8E00"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/css3/FFACC7"
+      src="https://cdn.simpleicons.org/postgresql/FFBFBC"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/AdobePhotoshop/FFB5A8"         
+      src="https://cdn.simpleicons.org/microsoftsqlserver/DFE0DF"         
+    />
+    </p>
+    <p align="center">
+    <img 
+      align=left
+      height="32"
+      width="32"
+      src="https://media.tenor.com/3UdZp2Jb250AAAAi/orange-cat.gif" />
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/docker/FD8E00"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/Python/FFC78A"
+      src="https://cdn.simpleicons.org/kubernetes/FD8E00"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/VisualStudioCode/FFDE73"
+      src="https://cdn.simpleicons.org/apacheairflow/DFE0DF"         
+    />
+        &nbsp;
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/tableau/DFE0DF"
+    />
+      <img 
+      align=right
+      height="32"
+      width="32"
+      src="https://media.tenor.com/-unmMc78vT4AAAAi/white-cat.gif" />
+    </p>
+    <p align="center">
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/python/FD8E00"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/JavaScript/F9F871"
+      src="https://cdn.simpleicons.org/pandas/FD8E00"
     />
     &nbsp;
     <img
       height="32"
       width="32"
-      src="https://cdn.simpleicons.org/microsoftsqlserver/9cf8e4"
+      src="https://cdn.simpleicons.org/keras/FD8E00"         
     />
-  </p>
-
-  <br />
+      &nbsp;
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/numpy/DFE0DF"
+    />
+      &nbsp;
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/jupyter/DFE0DF"
+    />
+      &nbsp;
+    <img
+      height="32"
+      width="32"
+      src="https://cdn.simpleicons.org/pycharm/DFE0DF"
+    />
+    </p>
+    
+  <br />    
 
   <h2 align="center">𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒</h2>
 
