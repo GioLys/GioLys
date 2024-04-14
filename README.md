@@ -129,8 +129,19 @@
       src="https://cdn.simpleicons.org/pycharm/DFE0DF"
     />
     </p>
+  <br /> 
+
+  <h2 align="center">𝐒𝐓𝐀𝐓𝐒</h2>
+  <br /> 
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GioLys&bgcolor=FFBFBC&color=743F3F&line=532324&point=FD8E00&area=true&area_color=491A1B&hide_border=true&radius=16&heigth=200&custom_title=Meu%20Gráfico%20de%20Contribuição&title_color=532324)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
   <br />    
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+  <br />
 
   <h2 align="center">𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒</h2>
 
