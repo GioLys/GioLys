@@ -2,10 +2,7 @@
 <tittle>
   <p align="center">
     <a>
-      <img src="https://raw.githubusercontent.com/GioLys/GioLys/main/text%20(2).gif" 
-           width="287" 
-           height="50" 
-           border="0" />
+      <img src="https://raw.githubusercontent.com/GioLys/GioLys/main/text%20(2).gif" />
     </a>
     <br />
   </p>
