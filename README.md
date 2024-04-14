@@ -18,9 +18,9 @@
   <br />
 
   <div align="center">
-    <img src="https://media.tenor.com/9yjyZOmuTKgAAAAi/smurf-cat.gif" align="right" />
+    <img src="https://media.tenor.com/9yjyZOmuTKgAAAAi/smurf-cat.gif" align="right" height="200"
+      width="300" />
   </div>
-  <br />
   <br />
   <p align="left">
     🤍 &nbsp; Estagiária Cientista de Dados no Inter </p> 
@@ -146,64 +146,26 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-  <br />
-
-  <h2 align="center">𝐑𝐄𝐃𝐄𝐒 𝐒𝐎𝐂𝐈𝐀𝐈𝐒</h2>
-
-  <br />
-
   <div align="center">
-    <img src="https://github.com/GioLys/GioLys/blob/main/sakura%20transi%C3%A7%C3%A3o.gif" align="right" />
+    <img src="https://media.tenor.com/Huqypeil3P4AAAAi/cat-yawn.gif" align="center" height="200"
+      width="200" />
   </div>
+  <br />
+
+  <p align="center">𝑺𝒊𝒏𝒕𝒂-𝒔𝒆 𝒍𝒊𝒗𝒓𝒆 𝒑𝒂𝒓𝒂 𝒆𝒏𝒕𝒓𝒂𝒓 𝒆𝒎  <a href="https://www.linkedin.com/in/giovanna-lys/" target="_blank"
+      >𝒄𝒐𝒏𝒕𝒂𝒕𝒐 𝒄𝒐𝒎𝒊𝒈𝒐!</a></p>
 
   <br />
 
-  <p align="center">𝑺𝒊𝒏𝒕𝒂-𝒔𝒆 𝒍𝒊𝒗𝒓𝒆 𝒑𝒂𝒓𝒂 𝒆𝒏𝒕𝒓𝒂𝒓 𝒆𝒎 𝒄𝒐𝒏𝒕𝒂𝒕𝒐 𝒄𝒐𝒎𝒊𝒈𝒐!</p>
-
   <br />
 
-  <p align="center">
-    <a href="https://www.instagram.com/butterf_lys/" target="_blank"
-      ><img
-        height="32"
-        width="32"
-        src="https://cdn.simpleicons.org/Instagram/FFABDE"
-    /></a>
-    &nbsp;
-    <a href="https://www.facebook.com/giovanna.lyss" target="_blank"
-      ><img
-        height="32"
-        width="32"
-        src="https://cdn.simpleicons.org/Facebook/DBC2FF"
-    /></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/giovanna-lys/" target="_blank"
-      ><img
-        height="32"
-        width="32"
-        src="https://cdn.simpleicons.org/LinkedIn/91DEFF"
-    /></a>
-    &nbsp;
-    <a href="https://br.pinterest.com/giovanna2966/" target="_blank"
-      ><img
-        height="32"
-        width="32"
-        src="https://cdn.simpleicons.org/Pinterest/00F6FF"
-    /></a>
-  </p>
-
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-
-  <h2 align="center">💖 𝐎𝐁𝐑𝐈𝐆𝐀𝐃𝐀 𝐄 𝐕𝐎𝐋𝐓𝐄 𝐋𝐎𝐆𝐎! 💖</h2>
+  <h2 align="center">🧡 𝐎𝐁𝐑𝐈𝐆𝐀𝐃𝐀 𝐄 𝐕𝐎𝐋𝐓𝐄 𝐋𝐎𝐆𝐎! 🧡</h2>
 
   <br />
 
   <div align="center">
-    <img src="https://github.com/GioLys/GioLys/blob/main/kero%20chan.gif" />
+    <img src="https://media.tenor.com/kuGDYneUIrcAAAAi/cat-kitty.gif" height="150"
+      width="150" />
   </div>
 </body>
 
