@@ -1,7 +1,7 @@
 
 <tittle>
   <p align="center">
-    <a href="https://picasion.com/gl/hc3s/">
+    <a>
       <img src="https://i.picasion.com/gl/92/hc3s.gif" 
            width="287" 
            height="24" 
