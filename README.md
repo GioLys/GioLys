@@ -139,7 +139,12 @@
   <br />    
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
   <br />
 
