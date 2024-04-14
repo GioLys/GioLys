@@ -23,7 +23,6 @@
   </div>
   <br />
   <br />
-  <br />
   <p align="left">
     🤍 &nbsp; Estagiária Cientista de Dados no Inter </p> 
   <p align="left">
