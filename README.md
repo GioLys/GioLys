@@ -4,7 +4,6 @@
     <a>
       <img src="https://raw.githubusercontent.com/GioLys/GioLys/main/text%20(2).gif" />
     </a>
-    
     <br />
     
   </p>
