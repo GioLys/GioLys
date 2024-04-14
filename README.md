@@ -8,7 +8,6 @@
            border="0" />
     </a>
     <br />
-    <a href="https://picasion.com/gl/hc3s/"></a>
   </p>
   <h2 align="center">💟 ℌ𝔞𝔳𝔢 𝔞 𝔩𝔬𝔳𝔢𝔩𝔶 𝔡𝔞𝔶 💟</h2>
   <p align="center">
