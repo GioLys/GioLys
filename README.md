@@ -15,33 +15,25 @@
 
 <body>
   <br />
-
   <h2 align="center">𝐒𝐎𝐁𝐑𝐄 𝐌𝐈𝐌</h2>
-
   <br />
 
+  <div align="center">
+    <img src="https://media.tenor.com/9yjyZOmuTKgAAAAi/smurf-cat.gif" align="right" />
+  </div>
+  <br />
+  <br />
+  <br />
   <p align="left">
-    - 💗 &nbsp; Amo explorar novos conhecimentos e qualquer assunto relacionado
-    a design e criação de arte.
+    🤍 &nbsp; Estagiária Cientista de Dados no Inter </p> 
+  <p align="left">
+    🤍 &nbsp; Estudo Inteligência de Mercado e Análise de Dados </p> 
+  <p align="left">
+    🤍 &nbsp; Aprendendo sobre extração, transformação e visualização de dados, as vezes desenvolvimento web também
   </p>
   <p align="left">
-    - 🌸 &nbsp; Estudo Análise e Desenvolvimento de Sistemas na
-    <a
-      href="https://www.ampli.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=[S]%20Institucional%20-%20Exata&utm_content=fe6ca5d9-c149-4f2f-9005-f63d7dada782&sellerId=fe6ca5d9-c149-4f2f-9005-f63d7dada782&utm_term=ampli&utm_campaign=%5BS%5D+Institucional+-+Exata&hsa_acc=9132551823&hsa_cam=18343539340&hsa_grp=144890810081&hsa_ad=622051998860&hsa_src=g&hsa_tgt=kwd-68566551&hsa_kw=ampli&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw6vyiBhB_EiwAQJRopuxtLojDJ-yC6seklbB5TcBF2MHezt3hIQtWpqXgsaFFnTPoTl4wZBoCZxcQAvD_BwE"
-      >AMPLI</a
-    >.
-  </p>
-  <p align="left">
-    - 🍄 &nbsp; Trabalhei por 1 ano como assistente de departamento financeiro
-  </p>
-  <p align="left">
-    - 🩰 &nbsp; Aprendendo sobre desenvolvimento web e suas diversas
-    funcionalidades.
-  </p>
-    <p align="left">
-    - 🎀 &nbsp; Meus hobbies são: patinação artística e league of legends.
-  </p>
-
+    🤍 &nbsp; Meus hobbies são: patinação artística, league of legends e ler </p>
+  <br />
   <br />
 
   <h2 align="center">𝐂𝐎𝐍𝐇𝐄𝐂𝐈𝐌𝐄𝐍𝐓𝐎𝐒</h2>
