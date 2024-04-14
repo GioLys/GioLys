@@ -11,7 +11,6 @@
     <img src="https://media.tenor.com/bgnl10pR3xgAAAAi/pixel-art-cat.gif" />
   </p>
   
-  <br />
 </tittle>
 
 <body>
