@@ -6,7 +6,6 @@
     </a>
     <br />
   </p>
-  <h2 align="center">💟 ℌ𝔞𝔳𝔢 𝔞 𝔩𝔬𝔳𝔢𝔩𝔶 𝔡𝔞𝔶 💟</h2>
   <p align="center">
     <img src="https://media.tenor.com/bgnl10pR3xgAAAAi/pixel-art-cat.gif" />
   </p>
